@@ -8,5 +8,5 @@ __all__ = [
 class PrintVersionAction(Action):
     def run(self):
         version = 'v0.13.0'
-        print version
+        print(version)
         return version
