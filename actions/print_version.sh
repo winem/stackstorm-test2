@@ -1,2 +1,2 @@
-echo "v0.8.0"
+echo "v0.20.0"
 exit 0
