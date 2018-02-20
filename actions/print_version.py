@@ -7,6 +7,6 @@ __all__ = [
 
 class PrintVersionAction(Action):
     def run(self, data):
-        version = 'v0.10.0'
+        version = 'v0.11.0'
         print version
         return version
