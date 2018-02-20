@@ -1,5 +1,5 @@
 ---
-"name": "print_version"
+"name": "local_script_runner_print_version"
 "runner_type": "local-shell-script"
 "description": "Action which prints pack version."
 "enabled": true
