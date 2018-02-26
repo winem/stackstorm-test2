@@ -10,7 +10,7 @@ __all__ = [
 
 class PrintVersionAction(Action):
     def run(self):
-        version = 'v0.13.0'
+        version = 'v0.22.0'
         print(local_module)
         print(CONSTANT_FOO)
         print(version)
