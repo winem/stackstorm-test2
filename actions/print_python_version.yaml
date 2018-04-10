@@ -1,0 +1,7 @@
+---
+"name": "print_python_version"
+"runner_type": "python-script"
+"description": "Action which prints Python version under which action is executed."
+"enabled": true
+"entry_point": "print_version.py"
+"parameters": {}

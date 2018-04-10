@@ -1,6 +1,6 @@
 ---
 name : test
-description : st2 pack to test package management pipeline
+description : st2 pack for testing various functionality (content_version, python 3, CI, etc.)
 keywords:
   - some
   - search
