@@ -1,6 +1,6 @@
 ---
 name : test
-description : st2 pack for testing various functionality (content_version, python 3, CI, etc.)
+description : StackStorm pack for testing various functionality and StackStorm pack CI system.
 keywords:
   - some
   - search
