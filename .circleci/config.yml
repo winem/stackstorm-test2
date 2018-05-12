@@ -9,6 +9,9 @@ jobs:
 
     working_directory: ~/repo
 
+    environment:
+      VIRTUALENV_DIR: "~/virtualenv"
+
     steps:
       - checkout
       - restore_cache:
@@ -38,6 +41,9 @@ jobs:
       - image: circleci/python:2.7
 
     working_directory: ~/repo
+
+    environment:
+      VIRTUALENV_DIR: "~/virtualenv"
 
     steps:
       - checkout
